@@ -1,0 +1,14 @@
+.imagename{
+    font-size: medium;
+    font-weight: bold;
+    color: blue;
+    text-align: center ;
+}
+#korean{
+    font-size: larger;
+    font-weight: bolder;
+    color: blueviolet;
+    text-align: center;
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
